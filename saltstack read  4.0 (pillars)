@@ -1,0 +1,20 @@
+Pillars
+--------------
+Pillar is just simple data. To create/setup pillars is exactly same as states.
+If you have already gone throught the previous tutorials on salt-states then pillar will be very easy.
+
+
+Read this article completely:
+http://docs.saltstack.com/en/latest/topics/pillar/
+
+Read this skipping the last python part:
+http://dev.mlsdigital.net/posts/SaltStackBeyondJinjaStates/
+
+
+
+Macro/function using in salt/ jinja renderer
+http://docs.saltstack.com/en/latest/ref/renderers/all/salt.renderers.jinja.html
+
+
+
+
